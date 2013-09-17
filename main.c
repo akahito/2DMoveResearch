@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <gtk/gtk.h>
 #include <unistd.h>
-#include "physics.h"
 #include "graphics.h"
 #include "models.h"
 #include "movement.h"
